@@ -1,2 +1,2 @@
-# bert-sentiment
-Sentiment Analysis on Tweets with BERT.
+# bert-classificatio
+Text classification on news articles with BERT.
